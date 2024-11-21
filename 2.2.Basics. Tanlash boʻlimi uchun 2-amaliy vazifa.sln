@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.2.Basics. Tanlash boʻlimi uchun 2-amaliy vazifa", "2.2.Basics. Tanlash boʻlimi uchun 2-amaliy vazifa.csproj", "{32D5E215-06CC-46AA-B3CD-D24C1295D592}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32D5E215-06CC-46AA-B3CD-D24C1295D592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D5E215-06CC-46AA-B3CD-D24C1295D592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D5E215-06CC-46AA-B3CD-D24C1295D592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D5E215-06CC-46AA-B3CD-D24C1295D592}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED3FD3A8-B13B-4E38-AF80-1B2CC84D2199}
+	EndGlobalSection
+EndGlobal
